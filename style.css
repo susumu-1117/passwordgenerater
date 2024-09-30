@@ -1,0 +1,30 @@
+body {
+  background-color: #034207;
+  color: #fdffff;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+input {
+  height: 23px;
+  font-size: 100%;
+}
+
+textarea {
+  height: 23px;
+  font-size: 18px;
+  padding: 3px;
+}
+
+button {
+  padding: 4px 15px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: #48e952;
+  color: #fdffff;
+}
+
+button:hover {
+  background-color: #3f8443;
+}
